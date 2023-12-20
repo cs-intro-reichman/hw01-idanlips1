@@ -5,6 +5,7 @@ public static void main (String[]args){
 	int cents = a%25;
 	if (a <= 0){
 		System.out.println("you dont have any money");
+		return;
 	}
 		System.out.println("Use " + quarters + " quarters " + "and " + cents +      	 " cents"); 
 

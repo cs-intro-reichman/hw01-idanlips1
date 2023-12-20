@@ -18,7 +18,7 @@
             "request": "launch",
             "mainClass": "Coins",
             "projectName": "hw01-idanlips1_3697957e",
-            "args": "1"
+            "args": "0"
         },
         {
             "type": "java",
