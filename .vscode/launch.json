@@ -6,6 +6,26 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Coins",
+            "request": "launch",
+            "mainClass": "Coins",
+            "projectName": "hw01-idanlips1_3697957e",
+            "args": "1"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "hw01-idanlips1_3697957e",
+            "args": [
+                "23",
+                "24",
+                "27"
+            ]
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +36,10 @@
             "request": "launch",
             "mainClass": "AddTwo",
             "projectName": "hw01-idanlips1_bedd8eb8",
-            "args":["7", "8"]
+            "args": [
+                "7",
+                "8"
+            ]
         },
         {
             "type": "java",
@@ -32,7 +55,10 @@
             "request": "launch",
             "mainClass": "GenThree",
             "projectName": "hw01-idanlips1_bedd8eb8",
-            "args": ["25", "56"]
+            "args": [
+                "25",
+                "56"
+            ]
         },
         {
             "type": "java",
@@ -47,7 +73,11 @@
             "request": "launch",
             "mainClass": "LinearEq",
             "projectName": "hw01-idanlips1_bedd8eb8",
-            "args": ["23", "24", "34"]
+            "args": [
+                "23",
+                "24",
+                "34"
+            ]
         },
         {
             "type": "java",
@@ -55,7 +85,11 @@
             "request": "launch",
             "mainClass": "Triangle",
             "projectName": "hw01-idanlips1_bedd8eb8",
-            "args": ["4","5","6"]
+            "args": [
+                "4",
+                "5",
+                "6"
+            ]
         }
     ]
 }
