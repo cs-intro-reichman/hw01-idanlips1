@@ -6,11 +6,23 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Gen3",
+            "request": "launch",
+            "mainClass": "Gen3",
+            "projectName": "hw01-idanlips1_3697957e",
+            "args": ["5","12"]
+        },
+        {
+            "type": "java",
             "name": "LinearEq",
             "request": "launch",
             "mainClass": "LinearEq",
             "projectName": "hw01-idanlips1_3697957e",
-            "args": ["0", "6", "9"]
+            "args": [
+                "0",
+                "6",
+                "9"
+            ]
         },
         {
             "type": "java",
